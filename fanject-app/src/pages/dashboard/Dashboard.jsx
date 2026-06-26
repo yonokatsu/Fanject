@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { useAuth } from '../../contexts/AuthContext';
 import { Navbar, Footer } from '../layout';
 import { User, Heart, Calendar, Bookmark } from 'lucide-react';
